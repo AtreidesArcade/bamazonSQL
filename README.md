@@ -8,7 +8,7 @@
 * The app first displays a list of all of the available products, their costs, and current stock.
 
 
-![Image of display](/readMeImg/productDisplay.png)
+![Image of display](readMeImg/productDisplay.png)
 
 * The app asks the following things from the user.
 
